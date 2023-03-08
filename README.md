@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hello, I'm Finn
 
+I'm a computer science and mathematics student at the University of Michigan 
+<a href="https://umich.edu/">
+<img src=https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png style="auto;height:13px">
+</a>
 <!--
-**ffdm/ffdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+    MMMMMMMM             MMMMMMMMMMMMMMMMM             MMMMMMMMM
+    MMMMMMMM              MMMMMMMMMMMMMMM              MMMMMMMMM
+    MMMMMMMM                MMMMMMMMMMM                MMMMMMMMM
+    MMMMMMMM                 MMMMMMMMM                 MMMMMMMMM
+    MMMMMMMM                  MMMMMMM                  MMMMMMMMM
+    MMMMMMMMMMMM               MMMMM                MMMMMMMMMMMM
+    MMMMMMMMMMMM                MMM                 MMMMMMMMMMMM
+    MMMMMMMMMMMM                 V                  MMMMMMMMMMMM
+    MMMMMMMMMMMM                                    MMMMMMMMMMMM
+    MMMMMMMMMMMM         ^               ^          MMMMMMMMMMMM
+    MMMMMMMMMMMM         MM             MM          MMMMMMMMMMMM
+    MMMMMMMMMMMM         MMMM         MMMM          MMMMMMMMMMMM
+    MMMMMMMMMMMM         MMMMM       MMMMM          MMMMMMMMMMMM
+    MMMMMMMMMMMM         MMMMMM     MMMMMM          MMMMMMMMMMMM
+    MMMMMMMM                MMMM   MMMM                MMMMMMMMM
+    MMMMMMMM                MMMMMVMMMMM                MMMMMMMMM
+    MMMMMMMM                MMMMMMMMMMM                MMMMMMMMM
+    MMMMMMMM                MMMMMMMMMMM                MMMMMMMMM
+    MMMMMMMM                MMMMMMMMMMM                MMMMMMMMM
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 -->
