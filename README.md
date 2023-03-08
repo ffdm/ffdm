@@ -1,7 +1,7 @@
 ### Hello, I'm Finn
 
 I'm a computer science and mathematics student at the University of Michigan 
-<a href="https://umich.edu/">
+<a href="https://umich.edu/" target="_blank" rel="noopener noreferrer">
 <img src=https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png style="auto;height:13px">
 </a>
 <!--
