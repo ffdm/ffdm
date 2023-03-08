@@ -1,9 +1,9 @@
 ### Hello, I'm Finn
 
 I'm a computer science and mathematics student at the University of Michigan 
-<a href="https://umich.edu/" target="_blank" rel="noopener noreferrer">
-<img src=https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png style="auto;height:13px">
-</a>
+<picture>
+  <img alt="University of Michigan Block M" src=https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png width="auto" height="13px">
+</picture>
 <!--
     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
