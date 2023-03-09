@@ -1,6 +1,6 @@
 ### Hello, I'm Finn
 
-I'm a computer science and mathematics student at the University of Michigan 
+I'm a computer engineering and mathematics student at the University of Michigan 
 <picture>
   <img alt="University of Michigan Block M" src=https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png width="auto" height="13px">
 </picture>
