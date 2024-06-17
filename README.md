@@ -5,7 +5,7 @@ I'm a computer engineering (major) and mathematics (minor) student at the Univer
   <img alt="University of Michigan Block M" src=https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png width="auto" height="13px">
 </picture>
 
-I really enjoy digital design, machine learning, and embedded systems.
+I really enjoy VLSI, FPGAs, machine learning, and embedded systems.
 <!--
     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
