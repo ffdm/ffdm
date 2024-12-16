@@ -1,11 +1,9 @@
 ### Hello, I'm Finn
 
-I'm a computer engineering (major) and mathematics (minor) student at the University of Michigan 
-<picture>
-  <img alt="University of Michigan Block M" src=https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png width="auto" height="13px">
-</picture>
+I'm a computer engineering student at the University of Michigan focusing on computer architecture and VLSI design.
 
-I really enjoy VLSI, FPGAs, machine learning, and embedded systems.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ffdm.ffdm&left_color=FFCB05&right_color=00274C)
+
 <!--
     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
@@ -35,4 +33,8 @@ I really enjoy VLSI, FPGAs, machine learning, and embedded systems.
     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+  <picture>
+      <img alt="University of Michigan Block M" src=https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png width="auto" height="13px">
+  </picture>
 -->
