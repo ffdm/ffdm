@@ -1,6 +1,6 @@
 ### Hey, I'm Finn...
 
-Currently working on my Master's degree in IC/VLSI Design at the University of <picture>
+Currently working on my Master's degree in IC/VLSI design at the University of <picture>
       <img alt="University of Michigan Block M" src=https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png width="auto" height="13px">
   </picture>ichigan. 
   <br> I'm also a GSRA in Reetuparna Das's group researching neuromorphic hardware-software co-design.
